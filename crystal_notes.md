@@ -20,5 +20,3 @@ But, as you get better at your artform (planting, pottery, baking), the DAO can 
 Crystal holders above a to-be-determined threshold can submit proposals for new community gardens. The DAO cannot go into debt to build these, unfortunately, I cannot have thousands of abandoned projects because the DAO crashes. We will have to rely on crowdfunding, but this project is a nice hype-worthy trendy shit if packaged well.
 ## Dear L.A.
 In some places the cost of living is higher than a $CTY can supplement, and that sucks. We will not set up there, we will be in the cheaper areas where we are needed. If you become homeless, there is a place for you. If you aren't homeless, there is a place for you. It's a simple life, but why does it need to be more than that?
-## Governance
-I do no
