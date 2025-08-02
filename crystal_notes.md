@@ -7,7 +7,7 @@ Workers are also "paid" in three meals from the kitchens.
 The goal is to raise the bar for the general welfare. Not a way to be rich, a way to not starve to death. Only 14% of the population, only one basic need.
 
 $CTYL costs ($50 USD on August 8th, 2026), which is supposed to represent a living wage after living expenses, which ideally the community scales to *sustainably* meet (food, water, shelter, electricity, education, healthcare).
-There is a 10% purchasers fee, which goes towards debt and ideally funding gardens, and 10% of that 10% goes to the founder's salary, capped at 1,500 $CTYL per year.
+There is a 10% purchasers fee, which goes towards debt and ideally funding gardens, and 10% of that 10% goes to the founder's salary, capped at 1,500 $CTYL per year, beginning August 2025 and ending August 2028.
 ## Forging
 A $CTYL is supposed to act as a standard living daily wage. Farms, for example, require daily maintenance. Each task is assigned a $CTYL value by the DAO's Cybersyn (ideally the daily work amounts to a single $CTYL but sometimes there is a lot of work, and workers should be compensated). This places the burden of proof-of-work on the employer, since he should not ask an employee to do something for nothing.
 
