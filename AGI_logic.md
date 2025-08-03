@@ -1,4 +1,4 @@
-# Modern Cybersyn: Synthesis Logic Architecture
+# AGI: Automated Global Infrastructure
 
 ## Core Logic Stack
 
