@@ -1,38 +1,9 @@
 # Goal:
 Divine a conceptual model that maps 100% to reality
 
-## 1) Alignment
-The collective goals and the individual's needs form an alignment, and that starts a cycle.
-For example, you don't want to be homeless, so you get a job that ideally pays you enough money.
+So far, I’ve identified that “alignment” of goals between the government and the governed starts a governance cycle. The alignment is established by an equivalent exchange between the parties, creating “cooperation” where the two parties engage in that equivalent exchange (I provide, you compensate me), leading to the “result”. If both parties are satisfied with the result, then the alignment is confirmed and the cycle goes again.
 
-## 2) Cooperation
-An agreement is made, an equivalent exchange between the two parties.
-For example, your boss agrees to pay you money for you to work for him.
+Some things to note, governed parties’ identities (and therefore motivations, resources, and expression) will change over time.
+If the party is non-human (egregoroc or cybersyn), its identity isn’t subject to change by time, but it is changeable by the parts inside the whole.
 
-## 3) Individual performs Work
-Real Work creats a product or performs a service.
-For example, you took orders at a drive-through.
-
-## 4) Individual Compensation
-Real Work is rewarded with compensation.
-For example, you get paid two weeks later.
-
-Then, we go back to step 1. Are the collective goals and the individual's needs still in alignment?
-For example, are you not getting paid enough?
-Then it's time for something new.
-
-Suggested model:
-## 1) Invitation
-The collective lists tasks that need to be completed for a pre-determined amount.
-
-## 2) Individual Performs Work
-
-## 3) Collective Compensates Individual
-
-## 4) Collective Sells or Utilizes Product or Service
-
-done.
-
-This is terrible I must sleep on this.
-Government by bounty? How do I assign them? Or is it just like it's there you better hurry your dumbass up.
-Compensate the less desirable tasks more. Like a disgusting tax from the indidivudal. ok I'm too high good night.
+The tension of the synergetic exchange maintains the system.
