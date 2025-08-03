@@ -1,5 +1,8 @@
 # AGI: Automated Global Infrastructure
 
+# Concept:
+If a robot has *full* context (data across the network), precedent (sample cases), and aligned philosophy, then it can make better decisions faster than any human could, simply given the scale of perspective needed.
+
 ## Core Logic Stack
 
 ### Layer 1: Data Collection & Reality Sensing
