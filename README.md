@@ -1,9 +1,8 @@
 # Solarpunk-or-Bust
-## Phase 1
-food is a human right if we decide to make it so
+## Goal
+Define Solarpunk Governanance Theory & Models
+Devise implementation for DAOs interested in adopting models
 
-## Solarpunk Governance Theory Project
-Is government that works for 100% of a group possible?
 
 ## This is clearly a work in progress.
 I am building the philosophy and theory, which is not the same things as the science.
